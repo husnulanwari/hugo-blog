@@ -1,0 +1,11 @@
+body {
+  text-align: justify;
+}
+
+section.main .content .markdown code, section.main .content .markdown pre {
+  background-color: #282c34;
+}
+
+code:not(.hljs) {
+  background-color: #dcdcdb !important;
+}
